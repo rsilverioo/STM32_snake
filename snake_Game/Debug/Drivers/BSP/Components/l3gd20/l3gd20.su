@@ -1,0 +1,12 @@
+l3gd20.c:101:6:L3GD20_Init	24	static
+l3gd20.c:124:6:L3GD20_DeInit	4	static
+l3gd20.c:133:9:L3GD20_ReadID	16	static
+l3gd20.c:152:6:L3GD20_RebootCmd	16	static
+l3gd20.c:171:6:L3GD20_LowPower	24	static
+l3gd20.c:185:6:L3GD20_INT1InterruptConfig	24	static
+l3gd20.c:216:6:L3GD20_EnableIT	24	static
+l3gd20.c:246:6:L3GD20_DisableIT	24	static
+l3gd20.c:273:6:L3GD20_FilterConfig	24	static
+l3gd20.c:297:6:L3GD20_FilterCmd	24	static
+l3gd20.c:317:9:L3GD20_GetDataStatus	16	static
+l3gd20.c:332:6:L3GD20_ReadXYZAngRate	48	static

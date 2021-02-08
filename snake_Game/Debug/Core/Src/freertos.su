@@ -1,0 +1,14 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+freertos.c:155:6:vApplicationGetIdleTaskMemory	24	static
+freertos.c:169:6:MX_FREERTOS_Init	152	static
+freertos.c:229:6:gameTaskBody	24	static
+freertos.c:312:6:usbTaskBody	24	static
+freertos.c:400:6:audioTaskBody	40	static
+freertos.c:516:6:inputTaskBody	48	static
+freertos.c:619:6:HAL_SAI_TxCpltCallback	16	static
+freertos.c:633:6:HAL_SAI_TxHalfCpltCallback	16	static
+freertos.c:647:6:AudioPlayer_Start	16	static
+freertos.c:709:6:AudioPlayer_Resume	8	static
+freertos.c:733:6:AudioPlayer_Pause	8	static
+freertos.c:767:6:AudioPlayer_Stop	8	static
+freertos.c:808:6:HAL_GPIO_EXTI_Callback	16	static

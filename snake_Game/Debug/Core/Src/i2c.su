@@ -1,0 +1,17 @@
+i2c.c:39:6:MX_I2C1_Init	8	static
+i2c.c:70:6:MX_I2C2_Init	8	static
+i2c.c:101:6:HAL_I2C_MspInit	56	static
+i2c.c:155:6:HAL_I2C_MspDeInit	16	static
+i2c.c:206:10:AUDIO_Init	32	static
+i2c.c:290:6:AUDIO_DeInit	8	static
+i2c.c:301:10:AUDIO_ReadID	24	static
+i2c.c:319:10:AUDIO_Play	24	static
+i2c.c:342:10:AUDIO_Pause	24	static
+i2c.c:361:10:AUDIO_Resume	24	static
+i2c.c:389:10:AUDIO_Stop	24	static
+i2c.c:410:10:AUDIO_SetVolume	24	static
+i2c.c:437:10:AUDIO_SetFrequency	16	static
+i2c.c:449:10:AUDIO_SetMute	24	static
+i2c.c:474:10:AUDIO_SetOutputMode	24	static
+i2c.c:513:10:AUDIO_Reset	16	static
+i2c.c:525:16:CODEC_IO_Write	24	static

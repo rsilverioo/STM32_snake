@@ -1,0 +1,5 @@
+stm32l476g_discovery_compass.c:94:23:BSP_COMPASS_Init	40	static
+stm32l476g_discovery_compass.c:170:6:BSP_COMPASS_DeInit	8	static
+stm32l476g_discovery_compass.c:181:6:BSP_COMPASS_LowPower	8	static
+stm32l476g_discovery_compass.c:207:6:BSP_COMPASS_AccGetXYZ	16	static
+stm32l476g_discovery_compass.c:224:6:BSP_COMPASS_MagGetXYZ	16	static

@@ -1,0 +1,9 @@
+stm32l476g_discovery_gyroscope.c:87:9:BSP_GYRO_Init	24	static
+stm32l476g_discovery_gyroscope.c:145:6:BSP_GYRO_DeInit	8	static
+stm32l476g_discovery_gyroscope.c:155:6:BSP_GYRO_LowPower	24	static
+stm32l476g_discovery_gyroscope.c:175:9:BSP_GYRO_ReadID	16	static
+stm32l476g_discovery_gyroscope.c:190:6:BSP_GYRO_Reset	8	static
+stm32l476g_discovery_gyroscope.c:204:6:BSP_GYRO_ITConfig	24	static
+stm32l476g_discovery_gyroscope.c:228:6:BSP_GYRO_EnableIT	16	static
+stm32l476g_discovery_gyroscope.c:244:6:BSP_GYRO_DisableIT	16	static
+stm32l476g_discovery_gyroscope.c:257:6:BSP_GYRO_GetXYZ	16	static

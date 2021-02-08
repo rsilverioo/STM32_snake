@@ -1,0 +1,11 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+main.c:121:5:main	16	static
+main.c:325:6:SystemClock_Config	232	static
+main.c:398:6:Setup	112	static
+main.c:422:6:DrawOled	32	static
+main.c:472:6:Algoritmo	136	static
+main.c:545:6:Fruta	16	static
+main.c:557:6:GameOver	360	static
+main.c:726:6:Leaderboard	4336	static
+main.c:812:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:829:6:Error_Handler	4	static

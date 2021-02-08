@@ -1,0 +1,12 @@
+lsm303c.c:116:6:LSM303C_AccInit	24	static
+lsm303c.c:137:6:LSM303C_AccDeInit	4	static
+lsm303c.c:146:9:LSM303C_AccReadID	16	static
+lsm303c.c:168:6:LSM303C_AccLowPower	24	static
+lsm303c.c:190:6:LSM303C_AccFilterConfig	24	static
+lsm303c.c:209:6:LSM303C_AccReadXYZ	40	static
+lsm303c.c:266:6:LSM303C_MagInit	16	static
+lsm303c.c:280:6:LSM303C_MagDeInit	4	static
+lsm303c.c:289:9:LSM303C_MagReadID	8	static
+lsm303c.c:307:6:LSM303C_MagLowPower	24	static
+lsm303c.c:329:9:LSM303C_MagGetDataStatus	8	static
+lsm303c.c:340:6:LSM303C_MagReadXYZ	24	static
